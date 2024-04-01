@@ -1,4 +1,4 @@
-pandas 
-numpy
-seaborn
--e .
+langchain
+langchain_openai
+langchain_core
+python-dotenv
